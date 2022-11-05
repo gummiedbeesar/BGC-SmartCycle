@@ -1,0 +1,33 @@
+/* All */
+.header {
+  text-emphasis: bold;
+  text-align: center;
+}
+body,p {
+  background-color: #b5c9be;
+  font-family: 'Montserrat', sans-serif;
+}
+.web-title {
+  font-size: 40px;
+  text-align: center;
+  font-weight: bolder;
+}
+/* Home */
+#main {
+  padding: 1rem;
+}
+img {
+  margin: 2rem;
+}
+.landfill {
+  height: 250px;
+  float: right;
+}
+/* About Us */
+.wisc-p,.og-p{
+  margin-left: 10rem;
+  margin-right: 10rem;
+  text-align: center;
+}
+/* Our Goal */
+
