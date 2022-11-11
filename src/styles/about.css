@@ -1,0 +1,12 @@
+.images {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+
+}
+
+.img-x {
+  margin-left: 1vw;
+  margin-right: 1vw;
+  font-size: large;
+}

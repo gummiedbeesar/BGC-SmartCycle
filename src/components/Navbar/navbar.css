@@ -1,0 +1,17 @@
+.navbar-container {
+  display: flex;
+  padding: 1rem;
+  /* background-color: #ededed; */
+  background-color: #b5c9be;
+
+}
+
+.nav-item-box {
+  margin-right: 2rem;
+}
+
+.nav-item {
+  text-decoration: none;
+  font-weight: medium;
+  color: black;
+}

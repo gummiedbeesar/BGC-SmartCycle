@@ -1,0 +1,13 @@
+.landing-page {
+  min-height: 100vh;
+  background-color: #b5c9be;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+.bot-container {
+  padding-top: 2rem;
+  /* justify-content: right; */
+}
