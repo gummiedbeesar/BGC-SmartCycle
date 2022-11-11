@@ -1,0 +1,11 @@
+#top-page {
+  height: 100vh;
+  background-color: #bcbc71;
+}
+
+.display-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}

@@ -16,7 +16,7 @@
   function load_home() {
 
     // $('#content').load("components/nav.html");
-
+    // --- OR ---
     // document.getElementById("content").innerHTML =
     //   '<object type="text/html" data="components/nav.html" ></object>';
   }
