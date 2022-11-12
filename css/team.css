@@ -1,0 +1,26 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+#team {
+  height: 100vh;
+  background: linear-gradient(190deg,  #bcbc71, #d500f9);
+}
+.header{
+  margin-top: 4rem;
+}
+.desc{
+  margin-bottom: 1rem;
+}
+.header, .desc{
+  margin-left: 5rem;
+  text-align: left;
+}
+.box {
+  margin-left: 5rem;
+  margin-right: 5rem;
+  background-color: white;
+  opacity: .5;
+  height: 60%;
+  width: auto;
+}

@@ -11,16 +11,18 @@ body {
 
 object {
   width: 100%;
-  /* min-height: fit-content; */
-  /* min-height: 100vh; */
+  min-height: fit-content;
+  min-height: 100vh;
 }
 
 iframe {
+  margin: -3px;
   height: 100vh;
+  filter: blur(2);
 }
 
-.mission-bg {
-  /* background-image: url("https://cdn-s3.sappi.com/s3fs-public/logos/download/png/please-recycle_eng.png"); */
-  /* background-image: url("https://www.plasticfreejuly.org/wp-content/uploads/2019/05/plastic-free-july_Recycling-symbol-245x239.png"); */
-  /* background-image: url("https://www.hcr-llc.com/hubfs/Images/Blog_Images/Landfill_Problems__Solutions-1.jpg"); */
+#chatbot-button {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
 }

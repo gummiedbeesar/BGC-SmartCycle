@@ -1,5 +1,11 @@
 #bottom-page {
   width: 100vw;
   height: 100vh;
-  /* background-color: pink; */
+  background-color: #cf2bda;
+}
+.thx-message{
+  text-align: center;
+  margin-bottom: 18rem;
+  margin-left: 15rem;
+  font-size: xx-large;
 }

@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#goal {
+  height: 100vh;
+  text-align: center;
+  color: black;
+
+}
+img {
+  width:200%;
+  height: auto;
+  opacity: .5;
+  margin-left: -1rem;
+  margin-right: -1rem;
+  /* background-image: url("https://cdn-s3.sappi.com/s3fs-public/logos/download/png/please-recycle_eng.png"); */
+  /* background-image: url("https://www.plasticfreejuly.org/wp-content/uploads/2019/05/plastic-free-july_Recycling-symbol-245x239.png"); */
+  /* background-image: url("https://www.hcr-llc.com/hubfs/Images/Blog_Images/Landfill_Problems__Solutions-1.jpg"); */
+}
+
+#mission-text{
+  margin-bottom: 20rem;
+  padding: 2rem;
+  position: fixed;
+  color: black;
+  text-align: center;
+}
